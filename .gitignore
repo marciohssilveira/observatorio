@@ -1,0 +1,8 @@
+.DS_Store
+venv
+Observa Brasil
+.idea
+.ipynb_checkpoints
+Base de dados Anuário e Temáticos 2020.xlsx
+
+__pycache__/observatorio.cpython-36.pyc
